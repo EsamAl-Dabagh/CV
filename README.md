@@ -1,29 +1,29 @@
-## Your Name
+## Esam Al-Dabagh
+###### Junior Software Developer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Former marketing and content Video Producer and Editor backed by eight years experience in the healthcare, motor, and education industries managing projects from brief to delivery. Looking for an environment that fosters continued learning and development whilst producing software that makes a difference.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my career I have worked with subject matter experts to distill their area of expertise into engaging video content that meets the needs of stakeholders within the business. This has involved organising and co-ordinating with a number of people on any single project, ranging from C-Level executives to consumers. 
 
-- Experience
-- Achievements
-- Evidence
+#### Willingness to learn and adapt
 
-#### Another Skill
+My years as a Video Producer and Editor working in very small teams within large national and multi-national companies has led me to develop a fluid approach to working, often having to solve technical, creative, and logistical problems whilst under tight time deadlines and budget restrictions. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- I established a collaborative post-production workflow within the video production team at the University of Surrey that made effective use of pre-existing footage to help reduce production time and costs. As well as mitigating the risk of hard-drive failure and the loss of footage. 
+- I created and integrated videos into BMW UK's e-learning for the first time, working under strict platform restrictions.  
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Projects
+Title | Description | Technologies
+----- | ----------- | ------------
+[Randomer](https://github.com/EsamAl-Dabagh/name-out-of-a-hat) | Submit names and then pick one at random. [randomer.xyz](http://randomer.xyz/) | JavaScript, jQuery
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2018 to October 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Surrey (2007 to 2010)
+*BSc (Hons) Media Production, First*
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+## Professional Experience
 
-#### Any other qualifications
+**Freelance** (October 2017 to June 2018)    
+*Video Editor*
+* Working closely with clients to realise their brief on time and on budget. 
 
-## Experience
+**Nuffield Health** (February 2016 to October 2017)   
+*Video Content Producer*
+* Created videos to drive traffic to product and service pages: I had the opportunity to work with world-leading experts in the field of healthcare and fitness in order to help develop and execute a strategy to engage both customers and potential customers. As a result the subscriber base of Nuffield Health's YouTube channel increased by over 200%. 
+* 'Brand Guardian': acting as a point-of-call for digital brand assets as well as guidance on usage to external agencies and fellow colleagues.
+* Working closely with stakeholders through all stages of production to ensure videos were delivered both on-time and on-spec.  
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Babcock International / BMW** (December 2015 to February 2016)
+*Media & E-Learning Specialist*
+* Took the lead on driving forward new ideas for a mix of video and interactive educational content to be used on BMW UK’s learning managment system. 
+* Management of one team member to ensure the smooth running of learning management system. 
+* Worked with SMEs and external agencies to help plug gaps in e-learning coverage. 
+
+**Babcock International / BMW** (February 2015 to December 2015)
+*Media & E-Learning Assistant*
+* Started the video production resource from scratch at the BMW Group Academy.
+* Created processes within the business to ensure the Learning Management System is updated accurately, quickly and with accountability. 
+
+**University of Surrey** (October 2011 to February 2015)
+*Digital Media Co-ordinator*
+* Established a collaborative post-production workflow within the video production team that made effective use of pre-existing footage to help reduce production time and costs. As well as mitigating the risk of hard-drive failure and the loss of footage. 
+* Management of the YouTube channel, including scheduling, uploading, tagging, and annotating videos. As well as audience engagement and analytics reports.
