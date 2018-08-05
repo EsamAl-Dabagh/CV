@@ -25,9 +25,7 @@ Title | Description | Technologies
 
 #### Makers Academy (July 2018 to October 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 16-week intensive software development bootcamp, covering:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -35,7 +33,7 @@ Title | Description | Technologies
 - RSpec, Jasmine
 
 #### University of Surrey (2007 to 2010)
-*BSc (Hons) Media Production, First*
+*BSc (Hons) Media Production, 1st*
 
 ## Professional Experience
 
