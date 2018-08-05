@@ -9,9 +9,9 @@ Former marketing and content Video Producer and Editor backed by eight years exp
 
 Throughout my career I have worked with subject matter experts to distill their area of expertise into engaging video content that meets the needs of stakeholders within the business. This has involved organising and co-ordinating with a number of people on any single project, ranging from C-Level executives to consumers. 
 
-#### Willingness to learn and adapt
+#### Ability to learn and adapt
 
-My years as a Video Producer and Editor working in very small teams within large national and multi-national companies has led me to develop a fluid approach to working, often having to solve technical, creative, and logistical problems whilst under tight time deadlines and budget restrictions. 
+My years as a Video Producer and Editor working in very small teams within large national and multi-national companies has led me to develop a fluid approach to working, often having to solve technical, creative, and logistical problems whilst under tight time deadlines and budget restrictions: 
 
 - I established a collaborative post-production workflow within the video production team at the University of Surrey that made effective use of pre-existing footage to help reduce production time and costs. As well as mitigating the risk of hard-drive failure and the loss of footage. 
 - I created and integrated videos into BMW UK's e-learning for the first time, working under strict platform restrictions.  
