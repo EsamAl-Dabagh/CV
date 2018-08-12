@@ -1,7 +1,7 @@
 ## Esam Al-Dabagh
 ###### Junior Software Developer
 
-Former marketing and content Video Producer and Editor backed by eight years experience in the healthcare, motor, and education industries managing projects from brief to delivery. Looking for an environment that fosters continued learning and development whilst producing software that makes a difference.
+Former marketing and content Video Producer and Editor backed by eight years experience in the healthcare, motor, and education industries managing video projects from brief to delivery. Currently I am studying at Makers, an intensive software development bootcamp. Upon graduating, I'm looking to join a company that fosters continued learning, whilst producing software that makes a difference.
 
 ## Skills
 
@@ -14,7 +14,7 @@ Throughout my career I have worked with subject matter experts to distill their 
 My years as a Video Producer and Editor working in very small teams within large national and multi-national companies has led me to develop a fluid approach to working, often having to solve technical, creative, and logistical problems whilst under tight time deadlines and budget restrictions: 
 
 - I established a collaborative post-production workflow within the video production team at the University of Surrey that made effective use of pre-existing footage to help reduce production time and costs. As well as mitigating the risk of hard-drive failure and the loss of footage. 
-- I created and integrated videos into BMW UK's e-learning for the first time, working under strict platform restrictions.  
+- I created and integrated videos into BMW UK's e-learning for the first time, working under strict platform restrictions to produce results that maintained BMW's high and exacting standards. 
 
 ## Projects
 Title | Description | Technologies
