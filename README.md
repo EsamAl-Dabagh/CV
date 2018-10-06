@@ -1,4 +1,4 @@
-## Esam Al-Dabagh
+## Esam Al-Dabagh  <a href="www.linkedin.com/in/esamaldabagh"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" height="30" alt="linkedin" align="right"></a>
 
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Professional-Experience)
 
