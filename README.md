@@ -18,12 +18,11 @@ My years as a Video Producer and Editor working in very small teams within large
 - I created and integrated videos into BMW UK's e-learning for the first time, working under strict platform restrictions to produce results that maintained BMW's high and exacting standards. 
 
 ## Projects
-| Title | Description | Technologies | Testing |
-| :---: | :-----------: | :------------: | :------: |
-[MakersBnB](https://github.com/DaveLawes/MakersBnB)| Working in a team using Agile and XP practices to create a full-stack AirBnB clone. | NodeJS, Express, PostgreSQL | Jasmine, Zombie |
-[Acebook](https://github.com/LazySamir/Acebook-EagleWithTopHat) | Working in a team and building upon our Agile and XP practices to create a full-stack clone of Facebook. | Rails, SQLite, Devise | RSpec, Capybara |
-[Rock, Paper, Scissors](https://github.com/EsamAl-Dabagh/rps-challenge) | Front-end web app created using TDD and Object-Orientated Design | Ruby, Sinatra | RSpec, Capybara |
-[Randomer](https://github.com/EsamAl-Dabagh/name-out-of-a-hat) | Submit names and then pick one at random. [randomer.xyz](http://randomer.xyz/) | JavaScript, jQuery | 
+| Title | Timeframe | Description | Technologies | Testing |
+| :---: | :-------: | :-----------: | :------------: | :------: |
+[MakersBnB](https://github.com/DaveLawes/MakersBnB)| 5 days | Working in a team using Agile and XP practices to create a full-stack AirBnB clone. | NodeJS, Express, PostgreSQL | Jasmine, Zombie |
+[Instagram](https://github.com/EsamAl-Dabagh/instagram-challenge) | 2 days | A full-stack clone of Instagram. | Rails, SQLite, Devise | RSpec, Capybara |
+[Rock, Paper, Scissors](https://github.com/EsamAl-Dabagh/rps-challenge) | 2 days | Front-end web app created using TDD and Object-Orientated Design | Ruby, Sinatra | RSpec, Capybara | 
 
 ## Education
 
@@ -34,7 +33,8 @@ A 16-week intensive software development bootcamp, covering:
 - Object-Orientated Programming
 - Test Driven Development
 - Agile/XP
-- Ruby, Rails, JavaScript, NodeJS
+- Ruby, Rails, JavaScript, Node.js
+- HTML, CSS
 - RSpec, Jasmine, Zombie, Capybara
 
 #### University of Surrey (2007 to 2010)
