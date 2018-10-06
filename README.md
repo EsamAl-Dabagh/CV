@@ -1,5 +1,6 @@
 ## Esam Al-Dabagh
-#### Junior Software Developer
+
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Professional-Experience)
 
 Former marketing and content Video Producer / Editor backed by eight years experience in the healthcare, motor, and education industries managing video projects from brief to delivery. Currently I am studying at Makers, an intensive software development bootcamp. Upon graduating, I'm looking to join a company that fosters continued learning, whilst producing software that makes a difference.
 
@@ -17,11 +18,11 @@ My years as a Video Producer and Editor working in very small teams within large
 - I created and integrated videos into BMW UK's e-learning for the first time, working under strict platform restrictions to produce results that maintained BMW's high and exacting standards. 
 
 ## Projects
-| Title | Description | Technologies |
-| :---: | :-----------: | :------------: |
-[MakersBnB](https://github.com/DaveLawes/MakersBnB)| Working in a team using Agile and XP practices to create a full-stack AirBnB clone. | NodeJS, Express, PostgreSQL |
-[Acebook](https://github.com/LazySamir/Acebook-EagleWithTopHat) | Working in a team and building upon our Agile and XP practices to create a full-stack clone of Facebook. | Rails, SQLite, Devise |
-[Rock, Paper, Scissors](https://github.com/EsamAl-Dabagh/rps-challenge) | Front-end web app created using TDD and Object-Orientated Design | Ruby, Sinatra |
+| Title | Description | Technologies | Testing |
+| :---: | :-----------: | :------------: | :------: |
+[MakersBnB](https://github.com/DaveLawes/MakersBnB)| Working in a team using Agile and XP practices to create a full-stack AirBnB clone. | NodeJS, Express, PostgreSQL | Jasmine, Zombie |
+[Acebook](https://github.com/LazySamir/Acebook-EagleWithTopHat) | Working in a team and building upon our Agile and XP practices to create a full-stack clone of Facebook. | Rails, SQLite, Devise | RSpec, Capybara |
+[Rock, Paper, Scissors](https://github.com/EsamAl-Dabagh/rps-challenge) | Front-end web app created using TDD and Object-Orientated Design | Ruby, Sinatra | RSpec, Capybara |
 [Randomer](https://github.com/EsamAl-Dabagh/name-out-of-a-hat) | Submit names and then pick one at random. [randomer.xyz](http://randomer.xyz/) | JavaScript, jQuery | 
 
 ## Education
@@ -30,7 +31,8 @@ My years as a Video Producer and Editor working in very small teams within large
 
 A 16-week intensive software development bootcamp, covering:
 
-- OOP, TDD, MVC
+- Object-Orientated Programming
+- Test Driven Development
 - Agile/XP
 - Ruby, Rails, JavaScript, NodeJS
 - RSpec, Jasmine, Zombie, Capybara
