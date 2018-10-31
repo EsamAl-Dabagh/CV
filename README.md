@@ -33,6 +33,7 @@ A 16-week intensive software development bootcamp, covering:
 - Object-Oriented Programming
 - Test Driven Development
 - Agile/XP
+- Version control: Git and GitHub
 - Ruby, Rails, JavaScript, Node.js
 - HTML, CSS
 - RSpec, Jasmine, Zombie, Capybara
