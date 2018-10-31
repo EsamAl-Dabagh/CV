@@ -2,7 +2,7 @@
 
 [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Professional-Experience)
 
-Former marketing and content Video Producer / Editor backed by eight years experience in the healthcare, motor, and education industries managing video projects from brief to delivery. Currently I am studying at Makers, an intensive software development bootcamp. Upon graduating, I'm looking to join a company that fosters continued learning, whilst producing software that makes a difference.
+Former marketing and content Video Producer / Editor backed by eight years experience in the healthcare, motor, and education industries managing video projects from brief to delivery. I'm a graduate of Makers, an intensive software development bootcamp. I'm looking to join a company that fosters continued learning, whilst producing software that makes a difference.
 
 ## Skills
 
