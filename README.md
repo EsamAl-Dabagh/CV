@@ -30,7 +30,7 @@ My years as a Video Producer and Editor working in very small teams within large
 
 A 16-week intensive software development bootcamp, covering:
 
-- Object-Orientated Programming
+- Object-Oriented Programming
 - Test Driven Development
 - Agile/XP
 - Ruby, Rails, JavaScript, Node.js
